@@ -14,7 +14,7 @@ Quick start with aviary config::
     )
 """
 
-__version__ = "0.1.3"
+__version__ = "0.1.4"
 
 from .detector import run_detection
 from .model_store import ensure_birdnet_assets
