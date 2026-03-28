@@ -2,7 +2,7 @@
 
 BirdNET-only inference package for [ARIA](https://github.com/ml4biodiversity/ARIA) (Acoustic Recognition for Inventories of Aviaries).
 
-This is the baseline detection system for the [BioDCASE 2026 Challenge](https://biodcase.github.io/).
+This is the customized BirdNET only detection system for the [BioDCASE 2026 Challenge](https://biodcase.github.io/).
 
 ## Installation
 
