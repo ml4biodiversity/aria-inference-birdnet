@@ -1,0 +1,6 @@
+{
+  "default_min_confidence": 0.05,
+  "default_temperature": 1.8,
+  "default_top_k": 3,
+  "notes": "These defaults match the ARIA BirdNET inference pipeline."
+}
